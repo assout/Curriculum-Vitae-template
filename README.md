@@ -2,25 +2,23 @@
 
 ## 基本情報
 
-|key|value|
-|---|-----|
-|Name|ふー　ばー (Foo Bar))|
-|Blog|[ふーばーブログ](http://foobar.blog.com)|
-|Twitter|[@foobar](https://twitter.com/foobar)|
-|Qiita|[foobar](http://qiita.com/foobar)|
-|SlideShare|[foobar](http://www.slideshare.net/foobar)|
-|Speakerdeck|[foobar](https://speakerdeck.com/foobar)|
+| key         | value                                         |
+|-------------|-----------------------------------------------|
+| Name        | assout                                        |
+| Blog        | [assoutの日記](http://assout.hatenablog.com/) |
+| Twitter     |                                               |
+| Qiita       |                                               |
+| SlideShare  |                                               |
+| Speakerdeck |                                               |
 
 ## スキル
 
 ### 言語
 
 - プログラミング言語
-
-- 日本語
-  - ネイティブ
-- 英語（例）
-  - かんたんな日常会話ができる（例）
+    - Java
+    - 日本語
+      - ネイティブ
 
 ### フレームワーク
 
